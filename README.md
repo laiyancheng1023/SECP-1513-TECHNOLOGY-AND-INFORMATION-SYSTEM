@@ -1,14 +1,14 @@
 # SECP-1513-TECHNOLOGY-AND-INFORMATION-SYSTEM
 
-Name:Lai Yan Cheng
+Name: Lai Yan Cheng
 
-Section:06
+Section: 06
 
-Group:05
+Group: 05
 
-Course name:Technology and Information System
+Course name: Technology and Information System
 
-Course code:SECP 1513
+Course code: SECP 1513
 
 ## 🎓 Academic & Industry Reflections
 
